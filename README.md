@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me 💫
 **Hi there! I'm Nam** 👋  
 A passionate **Backend Developer** specializing in building scalable and high-performance server solutions. I love architecting robust systems and solving complex problems through clean, efficient code.
 
@@ -6,7 +6,7 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 🛠️
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,11 +36,18 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
 |---|---|
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namhustle&show_icons=true&theme=radical) | [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=namhustle&theme=radical)](https://git.io/streak-stats)
 
+### 📌 Pinned Projects 📌
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/namhustle/nestjs-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namhustle&repo=nestjs-template&theme=radical" alt="NestJS Template" style="width: 500px; max-width: 100%;">
+  </a>
+</div>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🌐
 <p align="left">
   <a href="https://www.linkedin.com/in/hoang-nam-tran/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
