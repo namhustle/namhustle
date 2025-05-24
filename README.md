@@ -41,6 +41,9 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
   <a href="https://github.com/namhustle/nestjs-template">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=namhustle&repo=nestjs-template&theme=radical" alt="NestJS Template" style="width: 500px; max-width: 100%;">
   </a>
+  <a href="https://github.com/namhustle/nestjs-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namhustle&repo=nestjs-template&theme=radical" alt="NestJS Template" style="width: 500px; max-width: 100%;">
+  </a>
 </div>
 
 </div>
