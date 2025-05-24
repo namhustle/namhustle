@@ -31,8 +31,10 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
 ### 🔥 GitHub Analytics 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhustle&show_icons=true&theme=radical)](https://github.com/namhustle/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namhustle&show_icons=true&theme=radical)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=namhustle&theme=radical)](https://git.io/streak-stats)
+
+| | |
+|---|---|
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namhustle&show_icons=true&theme=radical) | [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=namhustle&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
