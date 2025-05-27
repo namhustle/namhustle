@@ -51,12 +51,6 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
 
 ## 🌐 Connect With Me 🌐
 <p align="left">
-  <a href="https://www.linkedin.com/in/hoang-nam-tran/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://web.facebook.com/tranhoangnamcode/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
   <a href="mailto:tranhoangnam.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
