@@ -34,22 +34,7 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
 
 | | |
 |---|---|
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namhustle&show_icons=true&theme=radical) | ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=namhustle&theme=radical)
-
-### 📌 Pinned Projects 📌
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/namhustle/nestjs-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namhustle&repo=nestjs-template&show_owner:true&theme=radical" alt="NestJS Template" style="width: 400px; max-width: 100%;">
-  </a>
-  <a href="https://github.com/namhustle/authz-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namhustle&repo=authz-template&show_owner:true&theme=radical" alt="Authz Template" style="width: 400px; max-width: 100%;">
-  </a>
-  </a>
-    <a href="https://github.com/namhustle/discord-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namhustle&repo=discord-monitor&show_owner:true&theme=radical" alt="Discord Monitor" style="width: 400px; max-width: 100%;"> 
-  </a>
-</div>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namhustle&show_icons=true&theme=radical)
 
 ---
 
